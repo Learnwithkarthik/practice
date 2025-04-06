@@ -1,0 +1,3 @@
+This is application logs
+
+Need to learn how to handle the logs and git
